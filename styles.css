@@ -1,0 +1,75 @@
+
+.body {
+    font-size: 30px;
+    background-color: rgb(229, 234, 235);
+    }
+    
+a:link {
+    text-decoration: none;
+    }
+
+a.cs3:visited {
+    color: yellow;
+}
+
+a.cs1:hover {
+    color: lightblue;
+    font-weight: bold;
+    }
+
+a.cs2:active {
+    color: red;
+    font-style: italic;
+    }
+    
+.form-group {
+        display: block;
+        block-size: auto;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+.input1 {
+        padding: 8px;
+        width: 100%;
+    }
+    
+textarea {
+        width: 90%;
+        height: 200px;
+        padding: 10px;
+    }
+
+textarea:focus {
+    font-size: 20px;
+    color: rgb(59, 226, 59);
+}
+
+.ls a {
+    color: rgb(248, 245, 245);
+}
+
+.ls li {
+    margin-right: 20px;
+    display: inline;
+    }
+
+.currentpage {
+    background-color: rgb(217, 217, 224);
+}
+
+.sp {
+    background-color: darkslateblue;
+}
+
+.sp ul{
+    display: contents;
+}
+
+a:hover {
+    background-color:  lightblue;
+    }
+
+input:focus {
+    background-color: #00FFFF;
+}
